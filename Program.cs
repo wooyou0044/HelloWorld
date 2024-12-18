@@ -12,6 +12,7 @@ namespace HelloWorld
         {
             Console.WriteLine("이힣");
             Console.WriteLine("이힣");
+            Console.WriteLine("이힣");
         }
     }
 }
